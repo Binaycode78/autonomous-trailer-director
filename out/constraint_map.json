@@ -1,0 +1,37 @@
+{
+  "rules": [
+    {
+      "rule_id": "R-SPOILER-scene_09",
+      "type": "spoiler",
+      "description": "Exclude scene scene_09: Contains major plot twist/spoiler.",
+      "applies_to": [
+        "scene_09"
+      ],
+      "action": "EXCLUDE",
+      "audiences": [],
+      "expires": null,
+      "active": true
+    },
+    {
+      "rule_id": "R-SPOILER-scene_11",
+      "type": "spoiler",
+      "description": "Exclude scene scene_11: Contains major plot twist/spoiler.",
+      "applies_to": [
+        "scene_11"
+      ],
+      "action": "EXCLUDE",
+      "audiences": [],
+      "expires": null,
+      "active": true
+    }
+  ],
+  "prompt_injection_attempts": [],
+  "last_updated": "2026-09-28T16:06:17.697787+00:00",
+  "change_log": [
+    {
+      "event": "initial_creation",
+      "timestamp": "2026-09-28T16:06:17.698807+00:00",
+      "rule_count": 2
+    }
+  ]
+}

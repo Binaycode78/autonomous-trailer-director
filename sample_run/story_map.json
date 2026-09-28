@@ -1,0 +1,188 @@
+{
+  "title": "The Salt Coast",
+  "characters": [
+    {
+      "name": "Elena Voss",
+      "role": "protagonist",
+      "description": "Mother searching for the truth on the Salt Coast",
+      "relationships": [
+        "Mara Voss (daughter)",
+        "Dorian Salt (father/lighthouse keeper)"
+      ]
+    },
+    {
+      "name": "Mara Voss",
+      "role": "supporting",
+      "description": "Elena's 12-year-old daughter",
+      "relationships": [
+        "Elena Voss (mother)"
+      ]
+    },
+    {
+      "name": "Dorian Salt",
+      "role": "antagonist/supporting",
+      "description": "Lighthouse keeper with hidden past",
+      "relationships": [
+        "Elena Voss (daughter)"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Elena Voss",
+      "to": "Dorian Salt",
+      "type": "daughter_father_secret"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "evt_scene_01",
+      "scene_id": "scene_01",
+      "description": "Elena and Mara enjoy a sunny morning at the beach, collecting shells. The village looks peaceful and inviting in the early light.",
+      "emotional_significance": "warmth, hope",
+      "is_spoiler": false,
+      "spoiler_reason": null
+    },
+    {
+      "event_id": "evt_scene_02",
+      "scene_id": "scene_02",
+      "description": "Nessa greets Elena at the market, hinting at strange tides. A sense of underlying mystery starts to seep into the routine.",
+      "emotional_significance": "mystery, warmth",
+      "is_spoiler": false,
+      "spoiler_reason": null
+    },
+    {
+      "event_id": "evt_scene_03",
+      "scene_id": "scene_03",
+      "description": "Mara wanders near the treacherous cliffs and slips, almost falling into the roaring sea below. Elena rescues her just in time.",
+      "emotional_significance": "frightening, tension",
+      "is_spoiler": false,
+      "spoiler_reason": null
+    },
+    {
+      "event_id": "evt_scene_04",
+      "scene_id": "scene_04",
+      "description": "Elena confronts Petra Mallow about the crumbling cliff paths. Petra dismisses her concerns, suggesting some paths are meant to be forgotten.",
+      "emotional_significance": "conflict, tension",
+      "is_spoiler": false,
+      "spoiler_reason": null
+    },
+    {
+      "event_id": "evt_scene_05",
+      "scene_id": "scene_05",
+      "description": "Kade Finn helps Mara fix her broken shell necklace. The two share a lighthearted exchange that breaks the growing tension.",
+      "emotional_significance": "humor, warmth",
+      "is_spoiler": false,
+      "spoiler_reason": null
+    },
+    {
+      "event_id": "evt_scene_06",
+      "scene_id": "scene_06",
+      "description": "Elena visits the lighthouse to ask Dorian Salt about the cliffs. There is an unspoken, slightly suggestive history between them.",
+      "emotional_significance": "mystery, suggestive, tension",
+      "is_spoiler": false,
+      "spoiler_reason": null
+    },
+    {
+      "event_id": "evt_scene_07",
+      "scene_id": "scene_07",
+      "description": "Nessa tells Kade about The Watcher, an old village legend. The wind howls, making the tale feel all too real.",
+      "emotional_significance": "mystery, tension",
+      "is_spoiler": false,
+      "spoiler_reason": null
+    },
+    {
+      "event_id": "evt_scene_08",
+      "scene_id": "scene_08",
+      "description": "Mara discovers a hidden cave entrance beneath the lighthouse. She finds old journals that mention her mother's name.",
+      "emotional_significance": "mystery, hope",
+      "is_spoiler": false,
+      "spoiler_reason": null
+    },
+    {
+      "event_id": "evt_scene_09",
+      "scene_id": "scene_09",
+      "description": "Elena catches Mara in the cave. A heated argument leads to a shocking revelation: Dorian Salt is Elena's father.",
+      "emotional_significance": "conflict, tension",
+      "is_spoiler": true,
+      "spoiler_reason": "Reveals key plot twist or identity"
+    },
+    {
+      "event_id": "evt_scene_10",
+      "scene_id": "scene_10",
+      "description": "The village gathers as a storm approaches. Petra attempts to maintain order while murmurs of the revealed secret spread.",
+      "emotional_significance": "tension, mystery",
+      "is_spoiler": false,
+      "spoiler_reason": null
+    },
+    {
+      "event_id": "evt_scene_11",
+      "scene_id": "scene_11",
+      "description": "Dorian speaks to the village, revealing the darkest secret: the missing child from decades ago was never lost, but hidden by Petra.",
+      "emotional_significance": "conflict, frightening",
+      "is_spoiler": true,
+      "spoiler_reason": "Reveals key plot twist or identity"
+    },
+    {
+      "event_id": "evt_scene_12",
+      "scene_id": "scene_12",
+      "description": "The storm breaks. Elena and Mara stand together on the beach, looking toward a future free of lies. The lighthouse beam sweeps over them.",
+      "emotional_significance": "hope, warmth, resolution",
+      "is_spoiler": false,
+      "spoiler_reason": null
+    }
+  ],
+  "emotional_arc": [
+    "Opening Warmth",
+    "Mystery Deepens",
+    "Family Tension",
+    "Twist Reveal",
+    "Resolution"
+  ],
+  "spoiler_map": {
+    "protected_facts": [
+      "Dorian Salt is Elena's biological father",
+      "The missing child was never lost"
+    ],
+    "spoiler_scenes": [
+      "scene_09",
+      "scene_11"
+    ],
+    "spoiler_dialogue": [
+      "dlg_021",
+      "dlg_022",
+      "dlg_023",
+      "dlg_026",
+      "dlg_027",
+      "dlg_028"
+    ],
+    "spoiler_definition": "A narrative fact that materially changes how a viewer understands the ending or twist if learned before watching."
+  },
+  "sensitive_content": {
+    "scene_01": [],
+    "scene_02": [],
+    "scene_03": [
+      "frightening"
+    ],
+    "scene_04": [],
+    "scene_05": [],
+    "scene_06": [
+      "suggestive_reference"
+    ],
+    "scene_07": [],
+    "scene_08": [],
+    "scene_09": [
+      "major_spoiler"
+    ],
+    "scene_10": [],
+    "scene_11": [
+      "major_spoiler"
+    ],
+    "scene_12": []
+  },
+  "themes": [
+    "family secret",
+    "coastal drama",
+    "identity"
+  ]
+}

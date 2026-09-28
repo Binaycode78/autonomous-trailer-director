@@ -1,0 +1,18 @@
+{
+  "title": "The Salt Coast",
+  "episode_number": 1,
+  "season": 1,
+  "total_duration_seconds": 720,
+  "language": "en",
+  "dialect_tracks": [
+    "mariner",
+    "highland"
+  ],
+  "genre": "family mystery drama",
+  "synopsis": "When a strange artifact washes ashore, Elena Voss and her daughter Mara uncover a long-buried village secret involving the enigmatic lighthouse keeper, Dorian Salt.",
+  "director": "Elias Thorne",
+  "content_advisory": [
+    "mild tension",
+    "thematic elements"
+  ]
+}

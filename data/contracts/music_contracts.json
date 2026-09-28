@@ -1,0 +1,30 @@
+[
+  {
+    "track_id": "track_01",
+    "title": "Tide Waltz",
+    "composer": "Aoife Strand",
+    "territories": "all",
+    "expires": "2027-06-01",
+    "promotional_use": true,
+    "audience_restrictions": "none"
+  },
+  {
+    "track_id": "track_02",
+    "title": "Shadow Harbor",
+    "composer": "Rolf Kern",
+    "territories": ["US", "UK", "CA", "AU"],
+    "expires": "2026-12-01",
+    "promotional_use": true,
+    "audience_restrictions": ["not_for_family_audience"]
+  },
+  {
+    "track_id": "track_03",
+    "title": "Morning Nets",
+    "composer": "Aoife Strand",
+    "territories": "all",
+    "expires": "2027-03-01",
+    "promotional_use": true,
+    "audience_restrictions": "none",
+    "notes": "Preferred for dialect-region trailers — culturally appropriate"
+  }
+]

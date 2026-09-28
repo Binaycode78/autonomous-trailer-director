@@ -1,0 +1,73 @@
+{
+  "trailer_id": "young_adult_v1",
+  "audience": "young adult viewers",
+  "duration_seconds": 60.0,
+  "audience_promise": {
+    "statement": "An edge-of-your-seat coastal thriller where secret pasts collide.",
+    "emotional_journey": [
+      "Intense Hook",
+      "Rising Suspicion",
+      "Shocking Beat",
+      "High-Stakes Teaser"
+    ],
+    "tone": "Tense, atmospheric, mystery thriller",
+    "what_audience_will_expect": "Dark coastal mystery, secrets, high stakes",
+    "what_is_protected": [
+      "Dorian's identity twist",
+      "Lighthouse confrontation reveal"
+    ]
+  },
+  "creative_brief": "{}",
+  "segments": [
+    {
+      "segment_id": "seg_01",
+      "source_in": "00:00:00.000",
+      "source_out": "00:01:00.000",
+      "video": "scene_01",
+      "audio": "dialogue_and_music",
+      "music_track": "track_01",
+      "subtitle": "Dialogue from scene_01",
+      "subtitle_track": "standard",
+      "reason": "Serves as Hook in young_adult narrative arc.",
+      "evidence": [
+        "scene:scene_01"
+      ],
+      "risk_flags": [],
+      "human_approval_required": false
+    }
+  ],
+  "text_cards": [
+    {
+      "timecode": "00:00:00.000",
+      "text": "THE SALT COAST",
+      "duration_seconds": 3.0
+    },
+    {
+      "timecode": "00:00:45.000",
+      "text": "STREAMING THIS FRIDAY",
+      "duration_seconds": 3.0
+    }
+  ],
+  "validation": {
+    "status": "PASS",
+    "checks_run": [
+      "SourceChecker",
+      "SpoilerChecker",
+      "RightsChecker",
+      "RatingsChecker",
+      "BiasChecker",
+      "AccessibilityChecker",
+      "BudgetChecker"
+    ],
+    "warnings": [],
+    "failures": [],
+    "human_approvals_required": [],
+    "estimated_cost_usd": 0.0,
+    "fallback_plan_available": false
+  },
+  "cost_estimate_usd": 0.0,
+  "fallback_plan": null,
+  "decision_notes": [],
+  "version": "1.0",
+  "generated_at": "2026-09-28T15:13:08.520743+00:00"
+}

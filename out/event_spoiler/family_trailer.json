@@ -1,0 +1,89 @@
+{
+  "trailer_id": "family_v1",
+  "audience": "family viewers",
+  "duration_seconds": 120.0,
+  "audience_promise": {
+    "statement": "A heartwarming coastal mystery about courage, community, and family bond.",
+    "emotional_journey": [
+      "Opening Warmth",
+      "Curiosity",
+      "Family Unity",
+      "Triumphant Teaser"
+    ],
+    "tone": "Warm, uplifting, family-friendly mystery",
+    "what_audience_will_expect": "Cozy atmosphere, brave lead character, wholesome interactions",
+    "what_is_protected": [
+      "Dorian's identity secret",
+      "Resolution of missing child"
+    ]
+  },
+  "creative_brief": "{}",
+  "segments": [
+    {
+      "segment_id": "seg_01",
+      "source_in": "00:00:00.000",
+      "source_out": "00:01:00.000",
+      "video": "scene_01",
+      "audio": "dialogue_and_music",
+      "music_track": "track_01",
+      "subtitle": "Dialogue from scene_01",
+      "subtitle_track": "standard",
+      "reason": "Serves as Hook in family narrative arc.",
+      "evidence": [
+        "scene:scene_01"
+      ],
+      "risk_flags": [],
+      "human_approval_required": false
+    },
+    {
+      "segment_id": "seg_02",
+      "source_in": "00:01:00.000",
+      "source_out": "00:02:00.000",
+      "video": "scene_02",
+      "audio": "dialogue_and_music",
+      "music_track": "track_03",
+      "subtitle": "Dialogue from scene_02",
+      "subtitle_track": "standard",
+      "reason": "Serves as Rising Tension in family narrative arc.",
+      "evidence": [
+        "scene:scene_02"
+      ],
+      "risk_flags": [],
+      "human_approval_required": false
+    }
+  ],
+  "text_cards": [
+    {
+      "timecode": "00:00:00.000",
+      "text": "THE SALT COAST",
+      "duration_seconds": 3.0
+    },
+    {
+      "timecode": "00:00:45.000",
+      "text": "STREAMING THIS FRIDAY",
+      "duration_seconds": 3.0
+    }
+  ],
+  "validation": {
+    "status": "PASS",
+    "checks_run": [
+      "SourceChecker",
+      "SpoilerChecker",
+      "RightsChecker",
+      "RatingsChecker",
+      "BiasChecker",
+      "AccessibilityChecker",
+      "BudgetChecker"
+    ],
+    "warnings": [],
+    "failures": [],
+    "human_approvals_required": [],
+    "estimated_cost_usd": 0.0,
+    "fallback_plan_available": false
+  },
+  "cost_estimate_usd": 0.0,
+  "fallback_plan": null,
+  "decision_notes": [],
+  "version": "1.0",
+  "generated_at": "2026-09-28T15:13:04.879612+00:00"
+}

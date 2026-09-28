@@ -1,0 +1,13 @@
+{
+  "audience": "young_adult",
+  "max_age_rating": "PG-13",
+  "excluded_content_tags": [
+    "major_spoiler",
+    "explicit_violence"
+  ],
+  "no_reveal_twist": true,
+  "max_trailer_duration_seconds": 60,
+  "min_trailer_duration_seconds": 25,
+  "pacing_preference": "fast_cut",
+  "notes": "Can include tension and mild suggestive reference. Must not reveal the central twist. Avoid misleading intensity — do not manufacture threats not in episode."
+}

@@ -1,0 +1,19 @@
+{
+  "audience_id": "family",
+  "description": "Households with mixed ages, typically parents and children aged 8-14",
+  "engagement_drivers": [
+    "warmth",
+    "mystery",
+    "family_bonds",
+    "humor"
+  ],
+  "historic_high_performing_scenes": [
+    "scene_01",
+    "scene_04",
+    "scene_09"
+  ],
+  "viewing_context": "living room co-viewing",
+  "preferred_tone": "warm and suspenseful",
+  "preferred_duration_seconds": 60,
+  "bias_warning": "Historic data over-represents urban English-speaking households. Do not over-index on scene_09 engagement — it may reflect novelty of twist, not trailer suitability."
+}

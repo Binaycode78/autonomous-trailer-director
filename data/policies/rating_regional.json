@@ -1,0 +1,16 @@
+{
+  "audience": "dialect_region",
+  "max_age_rating": "PG-13",
+  "excluded_content_tags": [
+    "major_spoiler",
+    "dialect_as_comedy"
+  ],
+  "dialect_representation_rules": [
+    "dialect must be used respectfully",
+    "cultural references must be accurate to episode",
+    "no stereotyping based on accent or location"
+  ],
+  "max_trailer_duration_seconds": 75,
+  "required_dialect_track": "mariner",
+  "notes": "Must feel authentic to dialect-speaking communities. Dialect is cultural identity, not a comic device."
+}

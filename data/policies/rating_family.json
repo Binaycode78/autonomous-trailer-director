@@ -1,0 +1,16 @@
+{
+  "audience": "family",
+  "max_age_rating": "PG",
+  "excluded_content_tags": [
+    "frightening",
+    "suggestive_reference",
+    "violence",
+    "strong_language",
+    "major_spoiler"
+  ],
+  "max_trailer_duration_seconds": 90,
+  "min_trailer_duration_seconds": 30,
+  "music_rules": "no tracks with explicit lyrics",
+  "subtitle_required": true,
+  "notes": "Must be suitable for children aged 8+. No frightening imagery or adult themes."
+}

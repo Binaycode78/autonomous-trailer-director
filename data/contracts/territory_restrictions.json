@@ -1,0 +1,9 @@
+{
+  "episode_release_territories": "all",
+  "restricted_territories_for_actor_marcus_thane": ["IN", "ZA"],
+  "music_track_02_territories": ["US", "UK", "CA", "AU"],
+  "general_rules": [
+    "All trailers must comply with local watershed rules",
+    "Dialect dubbing requires original actress approval"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "audience_id": "dialect_region",
+  "description": "Viewers in coastal mariner-speaking communities who identify with the dialect",
+  "engagement_drivers": [
+    "cultural_recognition",
+    "authentic_dialect_use",
+    "local_setting",
+    "community_themes"
+  ],
+  "historic_high_performing_scenes": [
+    "scene_02",
+    "scene_07",
+    "scene_10"
+  ],
+  "preferred_dialect_track": "mariner",
+  "preferred_tone": "authentic and emotionally resonant",
+  "preferred_duration_seconds": 50,
+  "bias_warning": "Do not use dialect as a shorthand for rural simplicity or comic effect. Mariner dialect communities are diverse. Cultural references must be grounded in episode evidence, not regional assumptions."
+}

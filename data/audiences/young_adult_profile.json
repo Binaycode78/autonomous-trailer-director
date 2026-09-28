@@ -1,0 +1,19 @@
+{
+  "audience_id": "young_adult",
+  "description": "Viewers aged 17-30, often watching alone or with peers",
+  "engagement_drivers": [
+    "fast_pace",
+    "character_identity_conflict",
+    "humor",
+    "romance_hints",
+    "mystery"
+  ],
+  "historic_high_performing_scenes": [
+    "scene_03",
+    "scene_06",
+    "scene_08"
+  ],
+  "preferred_tone": "urgent and character-driven",
+  "preferred_duration_seconds": 45,
+  "bias_warning": "Engagement data skews toward male viewers in 18-24 range. Do not assume identity conflict appeals only to one demographic."
+}

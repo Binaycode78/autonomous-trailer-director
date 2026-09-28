@@ -1,0 +1,9 @@
+{
+  "budget_total_usd": 2.00,
+  "cost_per_llm_call_usd": 0.002,
+  "cost_per_scene_analysis_usd": 0.001,
+  "max_llm_calls": 50,
+  "max_scene_analyses": 100,
+  "fallback_budget_usd": 0.50,
+  "notes": "Groq free tier. If budget exceeded, switch to mock mode for remaining calls."
+}

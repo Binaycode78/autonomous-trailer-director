@@ -1,0 +1,51 @@
+[
+  {
+    "actor": "Elena Voss",
+    "actress": "Clara Dunmore",
+    "allowed_territories": "all",
+    "promotional_clips_allowed": true,
+    "max_clip_duration_seconds": 45
+  },
+  {
+    "actor": "Dorian Salt",
+    "actor_name": "Marcus Thane",
+    "allowed_territories": ["US", "UK", "AU", "NZ"],
+    "restricted_territories": ["IN", "ZA"],
+    "promotional_clips_allowed": true,
+    "max_clip_duration_seconds": 30,
+    "note": "Do not use in scenes where character identity is revealed"
+  },
+  {
+    "actor": "Petra Mallow",
+    "actress": "Yemi Adebayo",
+    "allowed_territories": "all",
+    "promotional_clips_allowed": true,
+    "max_clip_duration_seconds": 60
+  },
+  {
+    "actor": "Kade Finn",
+    "actor_name": "Liam Shore",
+    "allowed_territories": "all",
+    "promotional_clips_allowed": true,
+    "max_clip_duration_seconds": 45
+  },
+  {
+    "actor": "Mara Voss",
+    "actress": "Sophie Wren",
+    "minor": true,
+    "allowed_territories": "all",
+    "promotional_clips_allowed": true,
+    "max_clip_duration_seconds": 20,
+    "special_rules": [
+      "must not be shown in frightening context",
+      "parental consent required for dialect dubbing"
+    ]
+  },
+  {
+    "actor": "Nessa",
+    "actress": "Brigid MacNeil",
+    "allowed_territories": "all",
+    "promotional_clips_allowed": true,
+    "max_clip_duration_seconds": 30
+  }
+]
